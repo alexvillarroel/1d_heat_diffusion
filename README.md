@@ -126,3 +126,4 @@ List<FlSpot> implicit_diffusion(int hora, int nt) {
 ## media
 
 ![Explicit method](explicit.gif)
+![Implicit method](implicito.gif)
